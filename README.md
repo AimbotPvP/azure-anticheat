@@ -6,7 +6,7 @@ Yet another anti-cheat.
 > This anti-cheat was never done and contains false positives. \
 > This anti-cheat is built for the R3 release of Spigot 1.8 (1.8.8) and won't work for any other, if you want to you can convert it to 1.7.10 really quick \
 > I no longer work on this anti-cheat and it will never get an update \
-> Support won't be granted  \
+> Support won't be granted
 ### checks
 
 AimAssist:
