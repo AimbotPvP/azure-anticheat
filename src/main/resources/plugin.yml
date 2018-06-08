@@ -1,0 +1,4 @@
+name: Azure
+main: us.skidrevenant.azure.Azure
+version: 1.0.0
+author: SkidRevenant
